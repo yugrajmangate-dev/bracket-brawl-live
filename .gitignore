@@ -1,0 +1,11 @@
+# Local tooling and OS files
+node_modules/
+.env
+.env.*
+!.env.example
+dist/.DS_Store
+Thumbs.db
+
+# Local test artifacts
+qa-*
+*.log
